@@ -1,0 +1,10 @@
+{
+  "name": "colibri-copilot-agents",
+  "description": "Custom Copilot agents and coding standards for the Colibri team.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Colibri Team"
+  },
+  "agents": "agents/",
+  "skills": "skills/"
+}
